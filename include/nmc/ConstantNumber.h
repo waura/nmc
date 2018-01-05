@@ -1,0 +1,6 @@
+#ifndef _NMC_CONSTANTNUMBER_H_
+#define _NMC_CONSTANTNUMBER_H_
+
+#define _PI_d (3.141592653589793)
+
+#endif //_NMC_CONSTANTNUMBER_H_
