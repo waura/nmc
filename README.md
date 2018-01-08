@@ -1,8 +1,9 @@
 # nmc
 
-This is numerical calculation library.
+This is numerical analsyis library.
 This library contains the following items.
 - Numeric Type
+  - int
   - double
   - float
   - complext
@@ -12,7 +13,9 @@ This library contains the following items.
 - Solver of linear equation
   - LU decomposition
   - BiCGSTAB
-- Charge Simulation Method(CSM)
+- Charge Simulation Method (CSM)
+- CSM applied Fast Multipole Method (FMCSM)
+- FMCSM accelerated by CUDA
 
 ## License
 
